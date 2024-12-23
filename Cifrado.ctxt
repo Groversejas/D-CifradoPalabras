@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Cifrado
+comment1.params=claveInicial\ incremento
+comment1.target=Cifrado(int,\ int)
+comment2.params=palabra
+comment2.target=java.lang.String\ cifrar(java.lang.String)
+comment3.params=palabraCifrada
+comment3.target=java.lang.String\ descifrar(java.lang.String)
+comment4.params=
+comment4.target=int\ getClaveInicial()
+comment5.params=claveInicial
+comment5.target=void\ setClaveInicial(int)
+comment6.params=
+comment6.target=int\ getIncremento()
+comment7.params=incremento
+comment7.target=void\ setIncremento(int)
+numComments=8

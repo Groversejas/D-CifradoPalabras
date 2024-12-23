@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GestionPistas
+comment1.params=
+comment1.target=GestionPistas()
+comment2.params=pista
+comment2.target=void\ agregarPistaAStack(Pista)
+comment3.params=
+comment3.target=java.lang.String\ obtenerPistaDeStack()
+comment4.params=pista
+comment4.target=void\ agregarPistaAQueue(Pista)
+comment5.params=
+comment5.target=java.lang.String\ obtenerPistaDeQueue()
+numComments=6

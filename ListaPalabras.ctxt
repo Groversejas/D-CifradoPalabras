@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ListaPalabras
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ListaPalabras\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ListaPalabras()
+comment2.params=palabra
+comment2.target=void\ agregarPalabra(Palabra)
+comment3.params=index
+comment3.target=Palabra\ obtenerPalabra(int)
+comment4.params=
+comment4.target=int\ contarPalabras()
+comment5.params=
+comment5.target=java.util.ArrayList\ getPalabras()
+numComments=6

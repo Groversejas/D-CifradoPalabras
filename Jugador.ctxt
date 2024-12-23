@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Jugador
+comment1.params=nombre\ intentosRestantes
+comment1.target=Jugador(java.lang.String,\ int)
+comment10.params=puntos
+comment10.target=void\ incrementarPuntuacion(int)
+comment11.params=
+comment11.target=void\ ganarPartida()
+comment12.params=
+comment12.target=void\ mostrarEstadisticas()
+comment2.params=
+comment2.target=void\ competir()
+comment3.params=competidor
+comment3.target=void\ desafiarA(Competidor)
+comment4.params=
+comment4.target=void\ observar()
+comment5.params=observacion
+comment5.target=void\ registrarObservacion(java.lang.String)
+comment6.params=
+comment6.target=void\ mostrarNombre()
+comment7.params=
+comment7.target=int\ getIntentosRestantes()
+comment8.params=intentosRestantes
+comment8.target=void\ setIntentosRestantes(int)
+comment9.params=
+comment9.target=int\ getPuntuacion()
+numComments=13

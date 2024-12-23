@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Competidor
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ Competidor\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ competir()
+comment2.params=competidor
+comment2.target=void\ desafiarA(Competidor)
+numComments=3

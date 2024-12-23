@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Nivel
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Nivel\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nombre\ claveInicial\ incremento\ pistasDisponibles
+comment1.target=Nivel(java.lang.String,\ int,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=nombre
+comment3.target=void\ setNombre(java.lang.String)
+comment4.params=
+comment4.target=int\ getClaveInicial()
+comment5.params=claveInicial
+comment5.target=void\ setClaveInicial(int)
+comment6.params=
+comment6.target=int\ getIncremento()
+comment7.params=incremento
+comment7.target=void\ setIncremento(int)
+comment8.params=
+comment8.target=int\ getPistasDisponibles()
+comment9.params=pistasDisponibles
+comment9.target=void\ setPistasDisponibles(int)
+numComments=10

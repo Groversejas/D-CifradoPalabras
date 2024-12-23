@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Abecedario
+comment1.params=letra
+comment1.target=int\ obtenerPosicion(char)
+comment2.params=posicion\ esMayuscula
+comment2.target=char\ obtenerLetra(int,\ boolean)
+numComments=3
